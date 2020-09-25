@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Hello World</title>
+</head>
+<body>
+<h1>WELCOME to DEVOPS CLASS</h1>
+<form name="loginForm" method="post" action="HelloworldServlet">
+    UserName : <input type="text" name="Name"/> <br/>
+    <input type="submit" value="Login" />
+</form>
+</body>
+</html>
